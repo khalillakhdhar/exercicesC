@@ -19,4 +19,5 @@ while(scanf("%d",&x)!=1)
 
 }
 divisible(x);
+return 0;
 }

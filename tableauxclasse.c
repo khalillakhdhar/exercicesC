@@ -89,4 +89,5 @@ int main()
     max=trouverMax(notes);
     min=trouverMin(notes);
     afficherResultat( sup10, infMoy,moyenne,  min, max);
+    return 0;
 }
